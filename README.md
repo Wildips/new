@@ -1,2 +1,2 @@
 # new
-qu.guru.education
+qa.guru.education
