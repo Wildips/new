@@ -27,4 +27,4 @@ def test_second(customized_browser, element_selector, awaiting_text):
     assert customized_browser.element(element_selector).should(
         have.text(awaiting_text)), "Text doesn't found"
 
-# changes for conflict
+# conflict for changes
